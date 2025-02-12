@@ -1,0 +1,16 @@
+# Java class files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+logs/
+*.log
